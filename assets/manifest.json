@@ -1,0 +1,77 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "stone",
+      "assets": [
+        {
+          "alias": [
+            "stone/stone-bases",
+            "stone-bases"
+          ],
+          "src": [
+            "stone/stone-bases.webp.json",
+            "stone/stone-bases.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "stone/stone-fx",
+            "stone-fx"
+          ],
+          "src": [
+            "stone/stone-fx.webp.json",
+            "stone/stone-fx.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "stone/stone-turrets",
+            "stone-turrets"
+          ],
+          "src": [
+            "stone/stone-turrets.webp.json",
+            "stone/stone-turrets.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "stone/stone-units",
+            "stone-units"
+          ],
+          "src": [
+            "stone/stone-units.webp.json",
+            "stone/stone-units.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
