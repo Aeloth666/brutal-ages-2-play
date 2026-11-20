@@ -8,6 +8,8 @@ Brutální válka věků od jeskyní až po budoucnost – druhý díl, nově s 
 
 📖 [Wiki – všechno o hře](https://aeloth666.github.io/brutal-ages-2-play/wiki.html)
 
+📲 [Stáhnout pro Android (APK)](https://aeloth666.github.io/brutal-ages-2-play/BrutalAges2.apk) – aplikace se pak aktualizuje sama
+
 Hra se sama pozná, že je na serveru nová verze, a nabídne obnovení. Jde ji přidat na plochu přímo z prohlížeče (📲 v menu) a hrát i bez internetu.
 
 ---
